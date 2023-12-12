@@ -1,5 +1,5 @@
 # cami-s-project
-![portada](portada.png)
+![portada](img\portada.png)
 
 ## Integrantes del repo
 
